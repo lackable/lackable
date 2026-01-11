@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lackable
 - 👀 I’m interested in Python and AI
-- 🌱 I’m currently in my 3rd Year of Btech CSE(AI&ML)
+- 🌱 I’m currently in my 4th Year of Btech CSE(AI&ML)
 - 📫 How to reach me , you can contact me on my email - saksham.dwivedi420@gmail.com
-- I am currently 19 years old
+- I am currently 20 years old
 - I am new to GitHub so I'm currently just exploring
 
 <!---
